@@ -11,6 +11,15 @@
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
 
+### Installation
+
+To install the dependencies for the javascript project, run the following commands:
+
+```bash
+cd javascript
+npm install
+```
+
 ### Enabling Security Updates
 
 - In your fork, click the **Settings** tab
